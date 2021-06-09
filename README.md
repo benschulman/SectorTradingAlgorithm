@@ -1,4 +1,4 @@
-# SectorTradingAlgorithm
+# SectorTradingAlgorithm (forked from KibaeKim/SectorTradingAlgorithm)
 
 This is a simple trading algorithm I discovered that operates on the Vanguard sector ETFs. This backdating algorithm provides on average a return of ~0.0878% for each trading day, or ~22.20% annualized return assuming 253 trading days per year.
 
