@@ -12,3 +12,5 @@ Because this algorithm operates on Vanguard's 11 Sector ETFs, it is resilient ag
 
 ### Caution
 Hindsight is 20/20 and because this is a backdating algorithm, similar results are not guaranteed in the future. Use at your own risk.
+
+This algorithm works well on this dataset until about 2008 at which point the returns flatten.
